@@ -1,0 +1,10 @@
+streamlit
+pandas
+nltk
+emoji
+plotly
+wordcloud
+matplotlib
+vaderSentiment
+transformers
+torch
